@@ -1,3 +1,2 @@
 Date Naissance Avatar
-
 Le plugin calcule automatiquement le temps écoulé depuis sa date de création initiale par Stéphane Bascher et adapte sa phrase de présentation selon l'année en cours.
